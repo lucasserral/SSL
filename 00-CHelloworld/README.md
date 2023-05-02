@@ -4,6 +4,8 @@
 
 **Equipo:** _(TP individual)_ N° 201
 
+**Compilador:** Se utilizó mingw y se seleccionó el compilador c18 enviando el argumento -std=c18 al compilar.
+
 ## Enunciado
 
 ### "Hello, World!” en C
@@ -61,5 +63,3 @@ Publique el trabajo en el repositorio personal SSL la carpeta 00- CHelloWorld co
 - [Git101](https://josemariasola.github.io/papers/Git%20101.pdf)
 - [CompiladoresInstalacion](https://josemariasola.github.io/papers/Compiladores,%20Editores%20y%20Entornos%20de%20Desarrollo.pdf)
 - [KR1988] § 1.1 Comenzado
-
-## Hipótesis
