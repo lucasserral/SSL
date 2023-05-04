@@ -2,6 +2,7 @@
 
 int main()
 {
-    printf("Hola mundo");
+    char saludo[11] = "Hola mundo";
+    printf(saludo);
     return 0;
 }
